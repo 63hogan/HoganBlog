@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://63hogan.github.io/HoganBlog/</loc>
+    <lastmod>2022-03-13T09:51:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://63hogan.github.io/HoganBlog/posts/my-first-post/</loc>
+    <lastmod>2022-03-13T09:51:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://63hogan.github.io/HoganBlog/posts/</loc>
+    <lastmod>2022-03-13T09:51:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://63hogan.github.io/HoganBlog/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://63hogan.github.io/HoganBlog/tags/</loc>
+  </url>
+  
+</urlset>

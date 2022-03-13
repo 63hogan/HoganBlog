@@ -1,0 +1,5 @@
+baseURL = "https://63hogan.github.io/HoganBlog/"
+languageCode = "en-us"
+title = "Hogan's Blog"
+theme = "ananke"
+publishDir = "docs"
