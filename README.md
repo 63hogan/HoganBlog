@@ -1,1 +1,2 @@
 # HoganBlog
+Hi there ~
